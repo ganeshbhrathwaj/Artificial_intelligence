@@ -1,6 +1,6 @@
 q=[]
 ct=[]
-n=int(input())
+n=17
 max=0
 graph = [[] for i in range(n)]
 v=[0]*n
