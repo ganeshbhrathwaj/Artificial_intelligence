@@ -1,4 +1,4 @@
-n=int(input())
+n=15
 g=[[]for i in range(n)]
 q=[]
 v=[0]*n
