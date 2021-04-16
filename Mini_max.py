@@ -1,5 +1,6 @@
 n=15
 g=[[]for i in range(n)]
+#print(g)
 q=[]
 v=[0]*n
 score=[[]for i in range(n)]
